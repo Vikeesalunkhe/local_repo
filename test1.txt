@@ -2,8 +2,3 @@
 <this the button (button)>
 
 feature1 : added by vikee from feature11
-
-<this the button (dropdown)>
-<this the button (button)>
-
-main : added by vikee and push from main 
