@@ -1,5 +1,3 @@
 pull 1 file 
 
 pull 2 file 
-
-line 3 
